@@ -1,4 +1,4 @@
-Barefoot Nomad - Leverage the modern web to make company travel and accomodation easy and convinient.
+Barefoot Nomad - making company travel and accomodation easy and convinient.
 =======
 
 ## Vision
